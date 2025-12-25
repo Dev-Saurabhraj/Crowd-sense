@@ -20,7 +20,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 # Load the YOLOv8 model
 model = YOLO("yolov8n.pt")
 
-# Global video source flag and path
+# Global video source flag and pathl̥
 using_webcam = True
 video_path = "uploads/videoplayback (1).mp4"
 
@@ -604,4 +604,5 @@ def update_zones():
     return jsonify({'success': True, 'zones': zones})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    
+    app.run(host='0.0.0.0', port=5000)
