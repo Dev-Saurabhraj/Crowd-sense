@@ -19,7 +19,6 @@ A real-time crowd monitoring system using YOLOv8 for person detection, featuring
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
