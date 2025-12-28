@@ -420,7 +420,7 @@ app.run(host='0.0.0.0', port=5001)
 
 ## 📞 Contact
 
-**Your Name** - [@saurabhrajput]([https://twitter.com/yourtwitter](https://www.linkedin.com/in/saurabh-rajput-06b1a32b8/)) - saurabhraj2509@example.com
+**Your Name** - [@saurabhrajput]([https://twitter.com/yourtwitter](https://www.linkedin.com/in/saurabh-rajput-06b1a32b8/)) - saurabhraj2509@gmail.com
 
 **Project Link:** [https://github.com/Dev-saurabhraj/Crowd-sense](https://github.com/Dev-saurabhraj/Crowd-sense)
 
